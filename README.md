@@ -1,4 +1,3 @@
-# React-new-Project
 <h1 align="center">
      New Project
 </h1>
