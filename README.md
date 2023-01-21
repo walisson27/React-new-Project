@@ -5,6 +5,7 @@
   🚀 Desenvolvido com ReactJS
 </h4>
 
-Tecnologias
+Tecnologias:
 
 - ReactJs
+- NodeJs
