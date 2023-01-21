@@ -6,7 +6,6 @@
 </h4>
 
 Tecnologias:
-
 - ReactJs
 - NodeJs
 - MySqL
