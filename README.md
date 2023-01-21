@@ -9,3 +9,4 @@ Tecnologias:
 
 - ReactJs
 - NodeJs
+- MySqL
