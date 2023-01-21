@@ -4,3 +4,7 @@
 <h4 align="center">
   🚀 Desenvolvido com ReactJS
 </h4>
+
+Tecnologias
+
+- ReactJs
