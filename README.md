@@ -2,7 +2,7 @@
      New Project
 </h1>
 <h4 align="center">
-  🚀 Desenvolvido com ReactJS
+  🚀Em Desenvolvimento com ReactJS
 </h4>
 
 Tecnologias:
