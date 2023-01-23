@@ -10,5 +10,3 @@ Tecnologias:
 - NodeJs
 - MySqL
 
-## 💻 Instalação
-
