@@ -9,3 +9,6 @@ Tecnologias:
 - ReactJs
 - NodeJs
 - MySqL
+
+## 💻 Instalação
+
