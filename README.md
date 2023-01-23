@@ -11,4 +11,4 @@ Tecnologias:
 - MySqL
 
 ## 💻 Instalação
-
+Para iniciar o **Projeto** utilize os comandos:
